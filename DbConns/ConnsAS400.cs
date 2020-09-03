@@ -40,11 +40,6 @@ namespace DbConns
         }
 
 
-        //public void CloseConnection()
-        //{
-
-        //    con.Close();
-        //}
 
 
 

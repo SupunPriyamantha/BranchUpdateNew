@@ -72,14 +72,7 @@ namespace BranchUpdateNew
 
                         m_streamWriter.WriteLine(Environment.NewLine + "Successfully run the procedure" + DateTime.Now.ToString());
                         m_streamWriter.Flush();
-                    //}
-                    //catch (Exception ex)
-                    //{
-                    //    m_streamWriter.WriteLine("Error: Unable to run the procedure. " + ex.Message);
-                    //    m_streamWriter.WriteLine("");
-                    //    m_streamWriter.Flush();
-
-                    //}
+                   
 
 
 
@@ -87,15 +80,7 @@ namespace BranchUpdateNew
 
 
 
-                    //m_streamWriter.WriteLine(Environment.NewLine + "Branch Update service Started: start date & time :" + DateTime.Now.ToString());
-                    //m_streamWriter.Flush();
-
-                    //try
-                    //{
-                        //Conns con = new Conns();
-
-                        //ConnsAS400 con400 = new ConnsAS400();
-
+                    
                         con.OpenConection();
                         con400.OpenConection();
 
@@ -105,7 +90,7 @@ namespace BranchUpdateNew
 
 
 
-                        //string getuser = "SELECT USER_ID FROM GENPAY.TRACK_PERFORM WHERE  (trunc(TRANS_DATE) = TRUNC(sysdate) )";
+                       
                         string getuser = "SELECT USER_ID FROM SLIC_MTRACK.TRACK_PERFORM";
                         OracleDataReader reader1 = con.DataReader(getuser);
 
@@ -122,22 +107,12 @@ namespace BranchUpdateNew
                                 con.ExecuteQueries(update);
                             }
 
-                            //if ()
-                            //{
-                            //    reader["Pwd"].ToString();
-
-                            //}
-                            //else
-                            //{
-
-
-                            //}
+                        
                         }
                         con.Commit();
                         con400.Commit();
 
-                       // IsStarted = false;
-
+                       
                         m_streamWriter.WriteLine(Environment.NewLine + "SuccessFully Updated the branch.." + DateTime.Now.ToString());
                         m_streamWriter.Flush();
 
@@ -156,8 +131,7 @@ namespace BranchUpdateNew
             m_streamWriter.WriteLine(Environment.NewLine + "Branch Update service Finished: finish date & time :" + DateTime.Now.ToString());
             m_streamWriter.Flush();
 
-            //con.CloseConnection();
-            //con400.CloseConnection();
+          
         }
 
 

@@ -6,3 +6,7 @@ D:\binsurance\BranchUpdateNew\DbConns\bin\Debug\DbConns.dll
 D:\binsurance\BranchUpdateNew\DbConns\bin\Debug\DbConns.pdb
 D:\binsurance\BranchUpdateNew\DbConns\obj\Debug\DbConns.dll
 D:\binsurance\BranchUpdateNew\DbConns\obj\Debug\DbConns.pdb
+D:\GITWorks\BranchUpdateNew\DbConns\bin\Debug\DbConns.dll
+D:\GITWorks\BranchUpdateNew\DbConns\bin\Debug\DbConns.pdb
+D:\GITWorks\BranchUpdateNew\DbConns\obj\Debug\DbConns.dll
+D:\GITWorks\BranchUpdateNew\DbConns\obj\Debug\DbConns.pdb

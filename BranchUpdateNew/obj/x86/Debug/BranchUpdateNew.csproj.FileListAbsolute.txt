@@ -30,3 +30,13 @@ E:\GENERAL_PROJECTS\BranchUpdateNewVersions\BranchUpdateNewV2\BranchUpdateNew\Br
 D:\Bellvantage_Works\GENERAL_PROJECTS\BranchUpdateNewVersions\BranchUpdateNewV2\BranchUpdateNew\BranchUpdateNew\bin\Debug\BranchUpdateNew.exe.config
 D:\Bellvantage_Works\GENERAL_PROJECTS\BranchUpdateNewVersions\BranchUpdateNewV2\BranchUpdateNew\BranchUpdateNew\obj\x86\Debug\BranchUpdateNew.exe
 D:\Bellvantage_Works\GENERAL_PROJECTS\BranchUpdateNewVersions\BranchUpdateNewV2\BranchUpdateNew\BranchUpdateNew\obj\x86\Debug\BranchUpdateNew.pdb
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\bin\Debug\BranchUpdateNew.exe.config
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\obj\x86\Debug\BranchUpdateNew.exe
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\obj\x86\Debug\BranchUpdateNew.pdb
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\bin\Debug\BranchUpdateNew.exe
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\bin\Debug\BranchUpdateNew.pdb
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\bin\Debug\DbConns.dll
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\bin\Debug\DbConns.pdb
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\obj\x86\Debug\BranchUpdateNew.csprojResolveAssemblyReference.cache
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\obj\x86\Debug\BranchUpdateNew.ProjectInstaller.resources
+D:\GITWorks\BranchUpdateNew\BranchUpdateNew\obj\x86\Debug\BranchUpdateNew.csproj.GenerateResource.Cache
