@@ -1,0 +1,8 @@
+c:\users\supun priyamantha\documents\visual studio 2010\Projects\BranchUpdateNew\DbConns\bin\Debug\DbConns.dll
+c:\users\supun priyamantha\documents\visual studio 2010\Projects\BranchUpdateNew\DbConns\bin\Debug\DbConns.pdb
+c:\users\supun priyamantha\documents\visual studio 2010\Projects\BranchUpdateNew\DbConns\obj\Debug\DbConns.dll
+c:\users\supun priyamantha\documents\visual studio 2010\Projects\BranchUpdateNew\DbConns\obj\Debug\DbConns.pdb
+D:\binsurance\BranchUpdateNew\DbConns\bin\Debug\DbConns.dll
+D:\binsurance\BranchUpdateNew\DbConns\bin\Debug\DbConns.pdb
+D:\binsurance\BranchUpdateNew\DbConns\obj\Debug\DbConns.dll
+D:\binsurance\BranchUpdateNew\DbConns\obj\Debug\DbConns.pdb
